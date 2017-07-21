@@ -17,21 +17,23 @@
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Abrir o ficheiro e correr o programa
+2. colocar a raspberry na porta
+3. pressionar o joystick para ativar o alarme
+4. Pressionar novamente para desligar
 
 #### Hardware  
 
 |Nome  |Link  |  
 |---|---|    
 |Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
-
+|Sense Hat|
+|Pi Camera|
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
+|Python  | |  
 
 
 ***  
